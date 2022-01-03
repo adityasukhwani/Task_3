@@ -1,0 +1,13 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+h2{
+    padding: 40px;
+    color: rgb(253, 84, 84);
+}
+tbody td{
+    width:80;
+    vertical-align: middle;
+}
